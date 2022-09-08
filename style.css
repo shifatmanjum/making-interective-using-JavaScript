@@ -1,0 +1,23 @@
+nes (20 sloc) 343 Bytes .body-main {
+    background-color: rgba(235, 235, 235, 0.53);
+}
+
+.option-text {
+    margin-top: 15px;
+}
+
+.option-btn {
+    margin-bottom: 5px;
+    padding: 10px;
+}
+
+.notify {
+    color: #fff;
+    text-align: center;
+    margin: 0 auto;
+    background: #222436;
+    margin-top: 20px;
+    border-radius: 15px;
+    padding: 5px;
+    display: none;
+}
